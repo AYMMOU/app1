@@ -1,0 +1,15 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 9670-77B4
+
+ R‚pertoire de C:\Users\User\Desktop\app1
+
+16/03/2024  17:46    <DIR>          .
+16/03/2024  17:42    <DIR>          ..
+16/03/2024  17:46                 0 f1.txt
+16/03/2024  17:45               420 f2.txt
+16/03/2024  17:45               464 f3.txt
+16/03/2024  17:45               508 f4.txt
+16/03/2024  17:45               552 f5.txt
+16/03/2024  17:43               376 fichier1.txt
+               6 fichier(s)            2ÿ320 octets
+               2 R‚p(s)  412ÿ653ÿ330ÿ432 octets libres
